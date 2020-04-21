@@ -37,7 +37,7 @@ After you install MongoDB, you can launch it in a console window by running the 
 
 #### all output going to: /usr/local/var/log/mongodb/mongo.log
 
-### STEPS FOR BUILDING:
+### Steps to follow:
     - Download MogoDB locally(Mongo Shell or Compass) and register a MongoDB account   
     - Bootstrap with Spring Initializr https://start.spring.io/
     - Select build tool maven or gradle.
